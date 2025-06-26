@@ -6,4 +6,7 @@ numero_5 = input("digite um numero:")
 
 resultado = int(numero_1)*int(numero_2)*int (numero_3)*int(numero_4)*int(numero_5)
 
+#int para numero inteiros
+#float para numeros decimais
+
 print(resultado)
