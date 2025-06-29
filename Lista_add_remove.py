@@ -16,3 +16,9 @@ nome.append (novo_nome_6)
 
 
 print (nome)
+
+apagar_nome = input ("Qual nome deseja apagar? :")
+
+nome.remove (apagar_nome)
+
+print (nome)
