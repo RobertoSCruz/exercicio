@@ -1,9 +1,18 @@
-amigo = []
+nome = []
 
-novo_amigo_1 = str(input ("Adicione um novo amigo:"))
-novo_amigo_2 = str(input ("Adicione um novo amigo:"))
-novo_amigo_3 = str(input ("Adicione um novo amigo:"))
-novo_amigo_4 = str(input ("Adicione um novo amigo:"))
-novo_amigo_5 = str(input ("Adicione um novo amigo:"))
-amigo.append (novo_amigo_1)
-print (amigo)
+novo_nome_1 = input ("Adicione um novo nome:")
+novo_nome_2 = input ("Adicione um novo nome:")
+novo_nome_3 = input ("Adicione um novo nome:")
+novo_nome_4 = input ("Adicione um novo nome:")
+novo_nome_5 = input ("Adicione um novo nome:")
+novo_nome_6 = input ("Adicione um novo nome:")
+
+nome.append (novo_nome_1)
+nome.append (novo_nome_2)
+nome.append (novo_nome_3)
+nome.append (novo_nome_4)
+nome.append (novo_nome_5)
+nome.append (novo_nome_6)
+
+
+print (nome)
